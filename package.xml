@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>kids100a_msg</name>
+  <name>kids100a_msgs</name>
   <version>0.1.4</version>
   <description>
     Message and service types: custom messages for kids100a packages
@@ -8,7 +8,7 @@
   <license>Apache License 2.0</license>
   <author email="251349552@qq.com">rcwind</author>
   <maintainer email="251349552@qq.com">rcwind</maintainer>
-  <url type="repository">https://github.com/rcwind/kids100a_msg</url>
+  <url type="repository">https://github.com/rcwind/kids100a_msgs</url>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>std_msgs</build_depend>
   <build_depend>message_generation</build_depend>
